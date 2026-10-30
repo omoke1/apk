@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import "./openbot.css";
+
+/* Ensure smooth scrolling and full dark canvas */
+html {
+  scroll-behavior: smooth;
+  background-color: #141414;
+  color: #f5f5f7;
+}
+
+body {
+  margin: 0;
+  background-color: #141414;
+  overflow-x: hidden;
+}

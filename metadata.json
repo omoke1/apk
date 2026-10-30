@@ -1,0 +1,6 @@
+{
+  "name": "OpenBot — Run a Team of AI Agents on Your Computer",
+  "description": "A free desktop app that runs AI agents as a team on your own computer, with the ChatGPT, Claude, Gemini or Grok plan you already pay for, or your own model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
